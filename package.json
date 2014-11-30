@@ -1,0 +1,26 @@
+{
+  "name": "nodemailer-gmail-transport",
+  "version": "1.0.0",
+  "description": "GMAIL API transport plugin for nodemailer. Enables nodemailer to send mails througnt Gmail API (using OAuth 2.0). Creates a nodemailer's transport which wraps Google's officially supported Node.js client library for accessing Google APIs.",
+  "main": "scr/gmailApiTransport.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mbmihura/nodemailer-gmail-transport"
+  },
+  "keywords": [
+    "nodemailer",
+    "transport",
+    "gmail",
+    "api",
+    "oauth"
+  ],
+  "author": "mbmihura",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mbmihura/nodemailer-gmail-transport/issues"
+  },
+  "homepage": "https://github.com/mbmihura/nodemailer-gmail-transport"
+}
