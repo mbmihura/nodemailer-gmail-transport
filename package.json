@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/mbmihura/nodemailer-gmail-transport/issues"
   },
-  "homepage": "https://github.com/mbmihura/nodemailer-gmail-transport"
+  "homepage": "https://github.com/mbmihura/nodemailer-gmail-transport",
+  "dependencies": {
+    "googleapis": "^1.0.21"
+  }
 }
